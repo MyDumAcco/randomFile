@@ -16,7 +16,7 @@ function fun1(){
         document.querySelector('#box').disabled = true;
         document.querySelector('#butn').disabled = true;
 
-        setTimeout(()=>{window.location.href = "http://localhost:4000/forthPage";},5000);
+        setTimeout(()=>{window.location.href = "https://firstproj1234.onrender.com/forthPage";},5000);
     }
     else{
         x.style.backgroundColor = 'red';

@@ -16,7 +16,7 @@ function fun1(boxId, buttonId){
         count++;
         if(count===3) {
             setTimeout(()=>{
-                window.location.href = 'http://localhost:4000/finalPage'
+                window.location.href = 'https://firstproj1234.onrender.com/finalPage'
             }, 4000);
         }
     }
